@@ -162,7 +162,7 @@ img {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%;
+  max-width: 100%;
   padding: 10px;
   z-index: 999;
   display: flex;
