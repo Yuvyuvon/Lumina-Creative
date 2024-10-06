@@ -1,0 +1,40 @@
+/* contact form */
+
+.contact {
+  padding: 3rem 0 4rem;
+}
+
+.contact p {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form-group {
+  margin: 2rem 0;
+}
+
+.contact input,
+.contact textarea {
+  border: none;
+  border-bottom: 1px #333 solid;
+  width: 100%;
+  font-family: "open sans";
+  font-size: 500;
+  padding: 1rem 0 1rem 0;
+}
+
+.contact textarea {
+  height: 200px;
+  resize: none;
+  max-width: 100%;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+  outline: 0;
+}
+
+.contact .btn {
+  width: 100%;
+  margin: 0.3rem 0;
+}

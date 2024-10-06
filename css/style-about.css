@@ -1,0 +1,32 @@
+/* services */
+.services {
+  padding: 3rem 0rem 4rem;
+}
+
+.services-flex {
+  display: flex;
+  gap: 2rem;
+}
+
+.services-item h4 {
+  font-size: 1.1rem;
+  margin-bottom: 0.7rem;
+}
+
+/* Team */
+
+.team {
+  padding: 3rem 0 4rem;
+}
+
+.team-flex {
+  display: flex;
+  gap: 1.4rem;
+}
+
+.team img {
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+}
